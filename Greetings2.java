@@ -7,7 +7,7 @@ public class Greetings2 extends JPanel {
    private int myWindowWidth = 300;
    private int myWindowHeight = 400;
 	
-   public Greetings() {
+   public Greetings2() {
       JFrame easel = new JFrame();		
       easel.setSize (myWindowWidth, myWindowHeight);
       easel.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
